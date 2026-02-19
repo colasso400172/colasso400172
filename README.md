@@ -25,6 +25,29 @@ to grow as a developer and contribute to real-world software projects.
 </p>
 
 
+<h2>🚀 Featured Projects</h2>
+
+<ul>
+  <li>
+    <strong>Seismic Network Monitoring System (Java)</strong><br>
+    Object-oriented system modeling seismic stations and monitoring logic.<br>
+    <a href="LINK">View Repository</a>
+  </li>
+
+  <li>
+    <strong>Product Store – Full Stack Application</strong><br>
+    REST API with Node.js, Express and Sequelize + frontend interface.<br>
+    <a href="LINK">View Repository</a>
+  </li>
+
+  <li>
+    <strong>Penalty Domain Model (Smalltalk)</strong><br>
+    OOP modeling of a football penalty shootout with unit testing.<br>
+    <a href="LINK">View Repository</a>
+  </li>
+</ul>
+
+
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -134,3 +157,10 @@ to grow as a developer and contribute to real-world software projects.
 </p>
 
 <br/>
+
+<h2>📫 Contact</h2>
+
+<p>
+📧 Email: <a href="mailto:joaquin.colasso@gmail.com">joaquin.colasso@gmail.com</a>
+</p>
+
