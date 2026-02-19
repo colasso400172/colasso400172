@@ -31,19 +31,19 @@ to grow as a developer and contribute to real-world software projects.
   <li>
     <strong>Seismic Network Monitoring System (Java)</strong><br>
     Object-oriented system modeling seismic stations and monitoring logic.<br>
-    <a href="LINK">View Repository</a>
+    <a href="https://github.com/colasso400172/seismic-network-monitoring-system">View Repository</a>
   </li>
 
   <li>
     <strong>Product Store – Full Stack Application</strong><br>
     REST API with Node.js, Express and Sequelize + frontend interface.<br>
-    <a href="LINK">View Repository</a>
+    <a href="https://github.com/colasso400172/product-store-fullstack">View Repository</a>
   </li>
 
   <li>
     <strong>Penalty Domain Model (Smalltalk)</strong><br>
     OOP modeling of a football penalty shootout with unit testing.<br>
-    <a href="LINK">View Repository</a>
+    <a href="https://github.com/colasso400172/penalty-shootout-domain-model">View Repository</a>
   </li>
 </ul>
 
