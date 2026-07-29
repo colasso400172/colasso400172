@@ -135,20 +135,12 @@ to grow as a developer and contribute to real-world software projects.
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
     <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
-  &emsp;
-   <a href="https://staruml.io/" target="_blank">
-  <img alt="StarUML" src="https://img.shields.io/badge/StarUML-2D3E50?logo=staruml&logoColor=white">
-  </a>
 
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="https://nodejs.org/" target="_blank">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
-  </a>
-  &emsp;
-    <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.postman.com/" target="_blank">
