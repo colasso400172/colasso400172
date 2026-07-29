@@ -20,8 +20,7 @@ to understand different computational models.
 
 <p>
 I enjoy building clean, maintainable systems, designing APIs, modeling databases, 
-and continuously improving my technical skills. I am currently seeking opportunities 
-to grow as a developer and contribute to real-world software projects.
+and continuously improving my technical skills. Open to Junior Backend or Full Stack opportunities.
 </p>
 
 
